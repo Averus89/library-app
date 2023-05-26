@@ -66,5 +66,5 @@ export const Heros = () => {
                 </div>
             </div>
         </div>
-    )
+    );
 }

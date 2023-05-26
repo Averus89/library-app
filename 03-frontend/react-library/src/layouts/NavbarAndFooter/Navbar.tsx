@@ -1,17 +1,17 @@
 export const Navbar = () => {
-    return (
+  return (
     <nav className='navbar navbar-expand-lg navbar-dark main-color py-3'>
       <div className='container-fluid'>
         <span className='navbar-brand'>Luv 2 Read</span>
-        <button 
-          className='navbar-toggler' 
-          type='button' 
-          data-bs-toggle="collapse" 
-          data-bs-target='#navbarNavDropdown' 
-          aria-controls='navbarNavDropdown' 
+        <button
+          className='navbar-toggler'
+          type='button'
+          data-bs-toggle="collapse"
+          data-bs-target='#navbarNavDropdown'
+          aria-controls='navbarNavDropdown'
           aria-expanded='false'
           aria-label='Toggle Navigation'>
-            <span className='navbar-toggler-icon'></span>
+          <span className='navbar-toggler-icon'></span>
         </button>
         <div className='collapse navbar-collapse' id='navbarNavDropdown'>
           <ul className='navbar-nav'>
@@ -30,5 +30,5 @@ export const Navbar = () => {
         </div>
       </div>
     </nav>
-    )
+  );
 }

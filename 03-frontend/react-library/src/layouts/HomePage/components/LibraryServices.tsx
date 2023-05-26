@@ -17,5 +17,5 @@ export const LibraryServices = () => {
                 <div className="col-lg-4 offset-lg-1 shadow-lg lost-image"></div>
             </div>
         </div>
-    )
+    );
 }

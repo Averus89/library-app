@@ -131,5 +131,5 @@ export const Carousel = () => {
                 <a className="btn btn-outline-secondary btn-lg" href="#">View more</a>
             </div>
         </div>
-    )
+    );
 }

@@ -8,5 +8,5 @@ export const SpinnerLoading = () => {
                     </span>
                 </div>
         </div>
-    )
+    );
 }

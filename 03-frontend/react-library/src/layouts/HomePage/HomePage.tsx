@@ -11,5 +11,5 @@ export const HomePage = () => {
             <Heros />
             <LibraryServices />
         </>
-    )
+    );
 }

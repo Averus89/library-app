@@ -23,5 +23,5 @@ export const ReturnBook: React.FC<{book: BookModel}>  = (props) => {
                 <a className="btn main-color text-white" href="#">Reserve</a>
             </div>
         </div>
-    )
+    );
 }
