@@ -29,10 +29,10 @@ export const Heros = () => {
                                 and out books are always going to be our top priority
                             </p>
                         </div>
-                        <div className="col-sm-6 col-md-6">
+                    </div>
+                    <div className="col-sm-6 col-md-6">
                             <div className="col-image-right"></div>
                         </div>
-                    </div>
                 </div>
             </div>
 
